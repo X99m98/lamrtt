@@ -1,5 +1,5 @@
 {
-  "name": "جيبثون العرب",
+  "name": " لمار تنوح ",
   "description": "اللهم صلِ على محمد وآل محمد",
   "logo": "https://telegra.ph/file/1b4a133e03c9e21d100be.jpg",
   "keywords": [
@@ -13,7 +13,7 @@
   "env": {
     "ALIVE_NAME": {
       "description": "هنا ضع اسم التلجرام الخاص بك",
-      "value": ""
+      "value": "lamar"
     },
     "APP_ID": {
       "description": "هنا ضع الاب ايدي الخاص بك يتكون من 8 ارقام", 
